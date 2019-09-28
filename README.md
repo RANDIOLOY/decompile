@@ -1,1 +1,2 @@
-# Nanti di upload nya
+# Yotube cara penginstalan
+• Channel : RANDI OLOYY
