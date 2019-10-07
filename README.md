@@ -3,6 +3,6 @@
 # Di saran kan pake python2 decom.py
 python2 decom.py
 
-• Atau
 
-python2 decom.pyc
+
+
